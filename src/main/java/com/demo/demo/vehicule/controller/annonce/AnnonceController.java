@@ -1,4 +1,4 @@
-package com.demo.vehicule.controller.annonce;
+package com.demo.demo.vehicule.controller.annonce;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.demo.api.APIResponse;
-import com.demo.vehicule.model.annonce.Annonce;
-import com.demo.vehicule.service.annonce.AnnonceService;
+import com.demo.demo.api.APIResponse;
+import com.demo.demo.vehicule.model.annonce.Annonce;
+import com.demo.demo.vehicule.service.annonce.AnnonceService;
 
 import jakarta.persistence.EntityNotFoundException;
 

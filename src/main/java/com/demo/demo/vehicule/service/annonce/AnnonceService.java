@@ -1,10 +1,10 @@
-package com.demo.vehicule.service.annonce;
+package com.demo.demo.vehicule.service.annonce;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.demo.vehicule.model.annonce.Annonce;
-import com.demo.vehicule.repository.annonce.AnnonceRepository;
+import com.demo.demo.vehicule.model.annonce.Annonce;
+import com.demo.demo.vehicule.repository.annonce.AnnonceRepository;
 
 import jakarta.persistence.EntityNotFoundException;
 import java.util.Optional;

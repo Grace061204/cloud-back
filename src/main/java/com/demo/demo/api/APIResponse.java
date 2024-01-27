@@ -1,4 +1,4 @@
-package com.demo.api;
+package com.demo.demo.api;
 
 public class APIResponse {
     String error;

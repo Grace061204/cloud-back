@@ -1,4 +1,4 @@
-package com.demo.vehicule;
+package com.demo.demo.vehicule;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

@@ -1,4 +1,4 @@
-package com.demo.vehicule.model.annonce;
+package com.demo.demo.vehicule.model.annonce;
 
 public class Favori {
 
